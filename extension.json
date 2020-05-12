@@ -1,0 +1,12 @@
+{
+  "displayName": "NCI Legacy Data Layer",
+  "name": "nci-legacy-data-layer",
+  "platform": "web",
+  "version": "0.1.0",
+  "description": "Legacy data layer for supporting CTS and the \"dumb data layer\"",
+  "author": {
+    "name": "NCI OCPL"
+  },
+  "main": "src/lib/main.js",
+  "viewBasePath": "src/view/"
+}
